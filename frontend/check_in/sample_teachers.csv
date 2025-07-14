@@ -1,0 +1,11 @@
+username,email,firstName,lastName,code,department,phone
+john.doe,john.doe@university.edu,John,Doe,T001,Computer Science,+1234567890
+jane.smith,jane.smith@university.edu,Jane,Smith,T002,Mathematics,+1234567891
+mike.johnson,mike.johnson@university.edu,Mike,Johnson,T003,Physics,+1234567892
+sarah.wilson,sarah.wilson@university.edu,Sarah,Wilson,T004,Chemistry,+1234567893
+david.brown,david.brown@university.edu,David,Brown,T005,Biology,+1234567894
+emma.davis,emma.davis@university.edu,Emma,Davis,T006,English,+1234567895
+james.miller,james.miller@university.edu,James,Miller,T007,History,+1234567896
+lisa.garcia,lisa.garcia@university.edu,Lisa,Garcia,T008,Spanish,+1234567897
+robert.rodriguez,robert.rodriguez@university.edu,Robert,Rodriguez,T009,Engineering,+1234567898
+anna.martinez,anna.martinez@university.edu,Anna,Martinez,T010,Art,+1234567899 
